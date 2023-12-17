@@ -25,7 +25,7 @@
 
 
 **[Awesome Books]**
-    This project is a basic website that allows users to add books to a list. The books list is store locally. So you can close your browser and when you open it again you will still have you books list.
+    This project is a basic website that allow users to add books to a list. The book list is store locally. So you can close your browser and when you open it again you will still have you books list.
 
 
 ## 🛠 Built With <a name="built-with"></a>

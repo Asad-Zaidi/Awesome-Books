@@ -1,20 +1,85 @@
-# Awesome-Books
+<a name="readme-top"></a>
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awesome Books
+<div align="center">
+<h3><b>Awesome Books</b></h3>
 
-> Books list web application.
+</div>
 
-This project is a basic website that allows users to add books to a list. The books list is store locally. So you can close your browser and when you open it again you will still have you books list.
+<!-- TABLE OF CONTENTS -->
 
-## Built With
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+- [🛠 Built With](#built-with)
+- [🚀 Live Demo](#live-demo)
+- [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [⭐️ Show your support](#support)
+- [🤝 Contributing](#contributing)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Portfolio] <a name="Awesome Books"></a>
+
+
+**[Awesome Books]**
+    This project is a basic website that allows users to add books to a list. The books list is store locally. So you can close your browser and when you open it again you will still have you books list.
+
+
+## 🛠 Built With <a name="built-with"></a>
 
 - HTML
 - CSS
 - JS
 
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [Live Demo](https://asad-zaidi.github.io/Awesome-Books/)
+
+
+
+
+### Deployment
+
+You can deploy this project using Github Pages
+
+
+
+
+## 👥 Authors <a name="authors"></a>
+
+
+👤 **SYED ASAD JAMIL**
+
+- GitHub: [Asad-Zaidi](https://github.com/Asad-Zaidi)
+- LinkedIn: [Syed Asad Jamil](https://www.linkedin.com/in/syed-asad-jamil-41a669261/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B180xZ18hRKuPH1pulTjiSg%3D%3D)
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+
+If you like this project, don't forget to star it.
+
+
+<!-- ACKNOWLEDGEMENTS -->
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.

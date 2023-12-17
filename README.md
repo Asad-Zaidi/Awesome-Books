@@ -13,7 +13,7 @@
 - [📖 About the Project](#about-project)
 - [🛠 Built With](#built-with)
 - [🚀 Live Demo](#live-demo)
-- [Deployment](#deployment)
+- [⚙️ Deployment](#deployment)
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
 - [🤝 Contributing](#contributing)
@@ -43,7 +43,7 @@
 
 
 
-### Deployment
+### ⚙️ Deployment
 
 You can deploy this project using Github Pages
 

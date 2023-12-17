@@ -6,24 +6,17 @@ body {
     text-align: center;
     margin: 50px;
 }
-
-h1 {
-    margin-bottom: 50px;;
-}
 table {
     width: max-content;
     margin: auto;
     border-collapse: collapse;
-}
-th, td {
-    padding: 8px;
-    border: 1px solid #c3c3c3;
-    text-align: center;
+    display: none;
 }
 
 button {
     cursor: pointer;
     margin-right: 5px;
+
 }
 
 button:hover {

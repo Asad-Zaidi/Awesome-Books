@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-    <h1><b>Awesome Books</b></h1>
+    <h1><b>Awesome Books 📚</b></h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->

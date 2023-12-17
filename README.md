@@ -58,9 +58,6 @@ You can deploy this project using Github Pages
 - GitHub: [Asad-Zaidi](https://github.com/Asad-Zaidi)
 - LinkedIn: [Syed Asad Jamil](https://www.linkedin.com/in/syed-asad-jamil-41a669261/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B180xZ18hRKuPH1pulTjiSg%3D%3D)
 
-## Show your support
-
-Give a ⭐️ if you like this project!
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -74,7 +71,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project, don't forget to star it.
+If you like this project, don't forget to Star ⭐️ it.
 
 
 <!-- ACKNOWLEDGEMENTS -->

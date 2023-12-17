@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Books</title>
+    <link rel="shortcut icon" href="../Book.png" type="image/x-icon">
+    <link rel="stylesheet" href="../Style/Book.css">
+    <link rel="stylesheet" href="../Style/nav.css">
+</head>
+
+<body>
+
+    <nav class="navbar">
+        <ul>
+            <li><a href="../../index.html">Home</a></li>
+            <li><a href="Book.html">Book</a></li>
+            <li><a href="./About.html">About</a></li>
+            <li><a href="./Contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <h1>Awesome Books</h1>
+
+    <form>
+        <label for="name">Name:</label>
+        <input type="text" id="nameInput" name="name">
+        <br><br>
+        <label for="author">Author:</label>
+        <input type="text" id="authorInput" name="author">
+        <br><br>
+        <button type="button" onclick="displayInput()">Submit</button>
+    </form>
+
+    <h2>Book List</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Author</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+    </table>
+
+    <script src="../script.js"></script>
+</body>
+
+</html>

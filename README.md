@@ -15,8 +15,6 @@ This project is a basic website that allows users to add books to a list. The bo
 - JS
 
 
-
-
 ## Show your support
 
 Give a ⭐️ if you like this project!

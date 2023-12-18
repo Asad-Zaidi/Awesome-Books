@@ -84,6 +84,16 @@ footer {
     width: 100%;
 }
 
+#time {
+    position: fixed;
+    bottom: 100px;
+    right: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
 @media (max-width: 768px) {
     header {
         padding: 15px;
@@ -113,5 +123,15 @@ footer {
     footer {
         padding: 5px;
         font-size: 12px;
+    }
+
+    #time {
+        position: fixed;
+        bottom: 60px;
+        right: 10px;
+        background-color: rgba(0, 0, 0, 0.7);
+        color: #fff;
+        padding: 5px 10px;
+        border-radius: 5px;
     }
 }

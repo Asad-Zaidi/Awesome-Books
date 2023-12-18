@@ -7,6 +7,7 @@
     <title>Awesome Books</title>
     <link rel="shortcut icon" href="../Book.png" type="image/x-icon">
     <link rel="stylesheet" href="../Style/nav.css">
+    <link rel="stylesheet" href="../Style//Contact.css">
 </head>
 
 <body>
@@ -23,8 +24,35 @@
         <div class="dark-mode-toggler" onclick="toggleDarkMode()">🌙</div>
     </nav>
 
-    <h1>Contact</h1>
+    <header>
+        <h1>Contact Us</h1>
+        <p>Have questions or suggestions? Reach out to us!</p>
+    </header>
 
+    <div class="container">
+        <main>
+            <form id="contactForm">
+                <label for="name">Your Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Your Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Your Message:</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+
+                <button type="submit">Send Message</button>
+            </form>
+
+            <div id="responseContainer"></div>
+        </main>
+    </div>
+
+    <!-- <footer>
+        <p>&copy; 2023 Awesome Books. All rights reserved.</p>
+    </footer> -->
+
+    <script src="../Script/Contact.js"></script>
     <script src="../Script/nav.js"></script>
 
 </body>

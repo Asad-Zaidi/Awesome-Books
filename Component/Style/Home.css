@@ -4,10 +4,10 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('');
+    /* background-image: url('../background.PNG');
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
     color: #fff;
 }
 
@@ -34,6 +34,10 @@ header p {
 
 main {
     text-align: center;
+}
+
+main p {
+    color: black;
 }
 
 h2 {
